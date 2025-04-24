@@ -1,73 +1,62 @@
-# DataScience
-📱 Google Play Store App Data Analysis
-This project is an Exploratory Data Analysis (EDA) on a dataset from the Google Play Store. The goal is to uncover insights about apps, their ratings, reviews, pricing, categories, and more — using Python, data visualization, and statistical testing.
+🚀 Excel Dashboard Project: Coca-Cola Sales Analysis 🥤📊
+I'm thrilled to share my latest data visualization project — a fully interactive Coca-Cola Sales Dashboard developed entirely in Microsoft Excel! This was a deep dive into transforming raw sales data into actionable insights, and it pushed my Excel skills to the next level.
 
-🧠 Objectives
-1. Most Popular Apps Based on User Engagement
-Identified top 13 apps with the highest number of reviews.
+🔍 Project Highlights:
+📊 Interactive Dashboard Interface
+Designed with user experience in mind, I implemented slicers and drop-down menus for real-time filtering across multiple dimensions like region, product category, and time period.
 
-Visualized using a colorful horizontal bar chart with value labels.
+📌 Key Business Metrics Tracked
 
-2. Most Competitive App Categories
-Analyzed the top 10 categories based on the number of apps available.
+Total Sales (Monthly & Yearly Trends)
 
-Used a bar plot with vibrant hues to highlight competition levels.
+Regional Sales Performance
 
-3. Content Suitability Distribution
-Visualized the distribution of content ratings across apps using:
+Product-Wise Contribution
 
-📊 Pie Chart
+Top Performing Products & Markets
 
-🍩 Donut Chart
+YoY Growth Rates
+All metrics are dynamically calculated to respond instantly to user selections.
 
-Created with Plotly for interactive visuals.
+📈 Engaging Visualizations
+Used a variety of charts to enhance data comprehension:
 
-4. Free vs Paid App Availability in Top Categories
-Compared the number of free and paid apps within the top 10 categories.
+Column & Bar Charts for comparison
 
-Grouped bar charts were used for clear comparison.
+Pie Charts for product share insights
 
-5. App Ratings: Free vs Paid (Z-Test Analysis)
-Conducted a statistical Z-Test to compare rating behavior between free and paid apps.
+Line Graphs to track trends over time
 
-Conclusion drawn based on the p-value significance.
+Heat Maps to highlight performance variances
 
-Boxplots created for visual comparison.
+🔧 Technical Stack
 
-📌 Bonus Insights
-✅ Reviews vs Rating by Category
-Scatter plot illustrating how user reviews relate to ratings across different categories.
+Pivot Tables for flexible data summarization
 
-✅ Correlation Heatmap
-Explored correlations between key numeric fields:
-Rating, Reviews, Installs, Price.
+Advanced Excel Functions like INDEX-MATCH, SUMIFS, and IFERROR
 
-🚨 Outlier Detection & Visualization
-Used Interquartile Range (IQR) method to:
+Conditional Formatting for emphasis and clarity
 
-Detect extreme outliers in Reviews column.
+Named Ranges & Dynamic Ranges for efficient workbook management
 
-Generate boxplots with and without outliers.
+Custom Formatting & Design Layouts for a polished, professional look
 
-Printed summary statistics before and after cleaning.
+🎯 Skills Sharpened in This Project:
+✅ Data Cleaning & Preparation
+Ensured data accuracy and consistency by handling duplicates, blanks, and formatting issues.
 
-📂 Dataset
-The dataset used in this project is publicly available and contains app metadata scraped from the Google Play Store.
+✅ KPI Design & Dashboard Layout
+Focused on clarity and accessibility to ensure insights could be consumed at a glance by stakeholders.
 
-🛠️ Tech Stack
-Python 🐍
+✅ Automation & Interactivity
+Streamlined data refresh processes and built interactivity using formulas and slicers to simulate a near real-time experience.
 
-Pandas - Data manipulation
+✅ Storytelling with Data
+Every visual element was purposefully selected to tell a cohesive business story — from identifying trends to spotlighting growth opportunities.
 
-Matplotlib & Seaborn - Visualization
+💬 Let’s Connect!
+Whether you're a data enthusiast, an Excel wizard, or someone passionate about business intelligence and storytelling, I’d love your feedback!
+If you’re curious about the backend of the project or interested in a walkthrough, feel free to reach out or drop a comment.
+Happy to collaborate or share insights on building dynamic dashboards in Excel!
 
-Plotly - Interactive charts
-
-Statsmodels - Z-test for hypothesis testing
-
-📈 Visual Sneak Peek
-All visualizations were designed to be clean, engaging, and informative — including bar charts, pie/donut charts, scatter plots, heatmaps, and boxplots.
-
-🤝 Let's Connect!
-If you're into data analytics, visualization, or app market analysis — feel free to ⭐ star this repo, fork it, or reach out to connect!
-
+🔖 #ExcelDashboard #DataAnalytics #Visualization #CocaCola #ExcelProject #BusinessIntelligence #DataStorytelling #PowerOfExcel #DataDriven #SpreadsheetMagic #KPIDesign #SalesAnalysis
